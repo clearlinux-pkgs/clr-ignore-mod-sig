@@ -1,6 +1,6 @@
 Name:           clr-ignore-mod-sig
 Version:        1
-Release:        2
+Release:        3
 License:        GPL-2.0
 Summary:        Append kernel command line to disable module signature verification
 Group:          kernel
